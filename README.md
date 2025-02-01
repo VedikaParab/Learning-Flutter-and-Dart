@@ -7,9 +7,9 @@ Welcome to my Flutter and Dart learning repository! This is where I document my 
 ## 📚 Topics Covered
 
 ### Introduction
-- [ ] Setting up the development environment
-- [ ] Dart programming language fundamentals
-- [ ] Flutter widgets and layouts
+- Setting up the development environment
+- Dart programming language fundamentals
+- Flutter widgets and layouts
 
 ---
 
@@ -17,15 +17,7 @@ Welcome to my Flutter and Dart learning repository! This is where I document my 
 
 | Project Name                 | Description                                            | Status          |
 |------------------------------|--------------------------------------------------------|-----------------|
-| **Hello Flutter**            | My first app in Flutter                                | ❌ Not Started  |
-
----
-
-## 📓 Notes
-
-- Key learnings and observations about Flutter and Dart.
-- Solutions to challenges faced during development.
-- Interesting insights or tips encountered while learning.
+| **Roll Dice App**            | Automatically generates random dice numbers            | ✅ Completed   |
 
 ---
 
@@ -38,14 +30,6 @@ Here are some resources I’m using to learn Flutter and Dart:
   - [Maximilian Schwarzmüller's Flutter Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 - Community:
   - [Flutter Discord](https://discord.com/invite/N7Yshp4u)
-
----
-
-## ✅ Progress Tracker
-
-| Date       | Topic/Concept Studied                  | Notes/Comments                          |
-|------------|----------------------------------------|-----------------------------------------|
-| YYYY-MM-DD | Dart Basics (Variables, Functions)     | Understood the basics of Dart syntax    |
 
 ---
 
